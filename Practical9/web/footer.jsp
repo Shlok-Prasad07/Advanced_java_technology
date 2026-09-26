@@ -1,0 +1,1 @@
+<p style="color: grey; font-style: italic;">&copy; 2023 JSTL Demo. All Rights Reserved.</p>
